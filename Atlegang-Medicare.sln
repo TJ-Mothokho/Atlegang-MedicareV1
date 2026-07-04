@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 18
-VisualStudioVersion = 18.6.11822.322 stable
+VisualStudioVersion = 18.6.11822.322
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atlegang-Medicare", "Atlegang-Medicare\Atlegang-Medicare.csproj", "{E5D7BAC3-8E0F-4AB3-A62A-7568FE1CE116}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atlegang-Unit-Tests", "Atlegang-Unit-Tests\Atlegang-Unit-Tests.csproj", "{04B3D1D4-C65C-4FA8-A55A-8CF99C974F9D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtlegangMedicare.Presentation", "AtlegangMedicare.Presentation\AtlegangMedicare.Presentation.csproj", "{19ABA260-3A07-4393-9242-04756ABD3291}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtlegangMedicare.Frontend", "AtlegangMedicare.Frontend\AtlegangMedicare.Frontend.csproj", "{40F5AD5D-6144-44EB-B2F1-42B85B0AEED8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{19ABA260-3A07-4393-9242-04756ABD3291}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19ABA260-3A07-4393-9242-04756ABD3291}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19ABA260-3A07-4393-9242-04756ABD3291}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40F5AD5D-6144-44EB-B2F1-42B85B0AEED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40F5AD5D-6144-44EB-B2F1-42B85B0AEED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40F5AD5D-6144-44EB-B2F1-42B85B0AEED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40F5AD5D-6144-44EB-B2F1-42B85B0AEED8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
