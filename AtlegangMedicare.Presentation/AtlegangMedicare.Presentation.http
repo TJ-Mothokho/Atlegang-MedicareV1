@@ -1,0 +1,6 @@
+@AtlegangMedicare.Presentation_HostAddress = http://localhost:5005
+
+GET {{AtlegangMedicare.Presentation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
